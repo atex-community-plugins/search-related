@@ -3,7 +3,7 @@ Search Related Plugin
 This is Search For Related plugin for Polopoly (a Fix version of polopoly core search for related).
 
 ## Polopoly Version
-10.146.0-fp1
+10.16.0-fp1
 
 ## Code Status
 The code in this repository is provided with the following status: **EXAMPLE**
