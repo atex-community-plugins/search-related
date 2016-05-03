@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<template-definition xmlns="http://www.polopoly.com/polopoly/cm/app/xml" version="1.0">
+
+<input-template name="p.SearchForRelated">
+    <policy>com.polopoly.cm.policy.ContentPolicy</policy>
+    <editor>com.atex.plugins.searchrelated.widget.OSearchForRelatedWidget</editor>
+    <viewer>com.atex.plugins.searchrelated.widget.OSearchForRelatedWidget</viewer>
+</input-template>
+
+</template-definition>
