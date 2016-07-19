@@ -64,19 +64,20 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>polopoly-public</id>
-      <name>Polopoly Public</name>
-      <url>http://maven.polopoly.com/nexus/content/repositories/mdc-pd-plugins</url>
+      <id>polopoly-pd-plugins</id>
+      <name>Polopoly Product Plugins</name>
+      <url>http://maven.polopoly.com/nexus/content/repositories/polopoly-pd-plugins</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>false</uniqueVersion>
-      <id>polopoly-public</id>
-      <name>Polopoly Public</name>
-      <url>http://mdc-maven.atex.com/nexus/content/repositories/mdc-pd-plugins-snapshots</url>
+      <id>polopoly-pd-plugins-snapshots</id>
+      <name>Polopoly Product Plugins Snapshots</name>
+      <url>http://maven.polopoly.com/nexus/content/repositories/polopoly-pd-plugins-snapshots</url>
       <layout>default</layout>
     </snapshotRepository>
   </distributionManagement>
+
 
   <pluginRepositories>
     <pluginRepository>
